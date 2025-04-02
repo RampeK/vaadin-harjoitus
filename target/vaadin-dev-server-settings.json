@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Rambo/Desktop/vaadin harjoitustyö/health-tracker/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Rambo/Desktop/vaadin harjoitustyö/health-tracker/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Rambo/Desktop/vaadin harjoitustyö/health-tracker/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Rambo\\Desktop\\vaadin harjoitustyö\\health-tracker\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Rambo\\Desktop\\vaadin harjoitustyö\\health-tracker\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Rambo/Desktop/vaadin harjoitustyö/health-tracker/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Rambo/Desktop/vaadin harjoitustyö/health-tracker/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Rambo/Desktop/vaadin harjoitustyö/health-tracker/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Rambo\\Desktop\\vaadin harjoitustyö\\health-tracker\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
