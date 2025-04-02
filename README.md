@@ -42,7 +42,7 @@ Health Tracker on Vaadin-sovelluskehyksellä toteutettu terveystietojen seuranta
 
 3. Avaa selain osoitteessa [http://localhost:8080](http://localhost:8080)
 
-4. Kirjaudu sisään seuraavilla tunnuksilla:
+4. Kirjaudu sisään seuraavilla tunnuksilla (versiossa ei ole eroa käyttäjätasoilla):
    - Tavallinen käyttäjä: käyttäjätunnus `user`, salasana `user`
    - Ylläpitäjä: käyttäjätunnus `admin`, salasana `admin`
 
